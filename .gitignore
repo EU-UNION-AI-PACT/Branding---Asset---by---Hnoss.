@@ -1,0 +1,60 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Build Artifacts
+dist/
+build/
+out/
+*.min.js
+*.min.css
+
+# Package Manager
+node_modules/
+bower_components/
+vendor/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Backup Files
+*.bak
+*.backup
+*-backup.*
+
+# Adobe Files (keep source, ignore temp)
+*.ai~
+*.psd~
+*-recovered.psd
+*-recovered.ai
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+$RECYCLE.BIN/
+*.lnk

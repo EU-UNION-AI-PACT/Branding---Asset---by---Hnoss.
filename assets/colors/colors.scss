@@ -1,0 +1,56 @@
+// Hnoss Brand Color Palette
+// SCSS Variables for consistent color usage
+
+// Primary Colors
+$hnoss-blue: #0066CC;
+$hnoss-gold: #FFD700;
+
+// Secondary Colors
+$deep-space: #1A1A2E;
+$pure-white: #FFFFFF;
+
+// Accent Colors
+$crystal-teal: #00D9FF;
+$royal-purple: #7B2CBF;
+
+// Functional Colors
+$success: #10B981;
+$warning: #F59E0B;
+$error: #EF4444;
+$info: $crystal-teal;
+
+// Grays
+$gray-50: #F9FAFB;
+$gray-100: #F3F4F6;
+$gray-200: #E5E7EB;
+$gray-300: #D1D5DB;
+$gray-400: #9CA3AF;
+$gray-500: #6B7280;
+$gray-600: #4B5563;
+$gray-700: #374151;
+$gray-800: #1F2937;
+$gray-900: #111827;
+
+// Color Map for easy iteration
+$colors: (
+  'hnoss-blue': $hnoss-blue,
+  'hnoss-gold': $hnoss-gold,
+  'deep-space': $deep-space,
+  'pure-white': $pure-white,
+  'crystal-teal': $crystal-teal,
+  'royal-purple': $royal-purple,
+  'success': $success,
+  'warning': $warning,
+  'error': $error,
+  'info': $info
+);
+
+// RGB Values (for opacity/alpha usage)
+$hnoss-blue-rgb: 0, 102, 204;
+$hnoss-gold-rgb: 255, 215, 0;
+$deep-space-rgb: 26, 26, 46;
+$crystal-teal-rgb: 0, 217, 255;
+$royal-purple-rgb: 123, 44, 191;
+
+// Example usage with opacity:
+// background-color: rgba($hnoss-blue-rgb, 0.8);
