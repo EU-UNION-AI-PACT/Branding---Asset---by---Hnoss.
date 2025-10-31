@@ -10,7 +10,7 @@ This directory contains official Hnoss brand typography resources and font files
 
 **Weights Available:**
 - **Bold** (700): Headings, emphasis
-- **Medium** (500): Subheadings, UI elements  
+- **Medium** (500): Subheadings, UI elements
 - **Regular** (400): Body text, general content
 
 **Why Inter?**
@@ -108,18 +108,18 @@ h1, h2, h3 {
 ## Typography Guidelines
 
 ### Do's
-✓ Use consistent hierarchy  
-✓ Maintain adequate line spacing  
-✓ Ensure sufficient contrast  
-✓ Keep line length readable (45-75 characters)  
-✓ Use web-safe fallback fonts  
+✓ Use consistent hierarchy
+✓ Maintain adequate line spacing
+✓ Ensure sufficient contrast
+✓ Keep line length readable (45-75 characters)
+✓ Use web-safe fallback fonts
 
 ### Don'ts
-✗ Don't use more than 2-3 font weights  
-✗ Don't use decorative fonts for body text  
-✗ Don't sacrifice readability for style  
-✗ Don't use all caps for long text blocks  
-✗ Don't use fonts outside the brand system  
+✗ Don't use more than 2-3 font weights
+✗ Don't use decorative fonts for body text
+✗ Don't sacrifice readability for style
+✗ Don't use all caps for long text blocks
+✗ Don't use fonts outside the brand system
 
 ## Accessibility
 
